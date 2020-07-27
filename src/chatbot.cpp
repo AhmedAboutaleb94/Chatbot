@@ -44,7 +44,7 @@ ChatBot::~ChatBot()
     }
 }
 
-//// STUDENT CODE //Task 2
+//// STUDENT CODE // Task 2
 ////
 ChatBot::ChatBot(const ChatBot &source) // copy constructor
 {
